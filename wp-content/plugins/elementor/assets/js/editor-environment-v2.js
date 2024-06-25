@@ -1,4 +1,4 @@
-/*! elementor - v3.21.0 - 11-04-2024 */
+/*! elementor - v3.23.0 - 24-06-2024 */
 /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
 var __webpack_exports__ = {};

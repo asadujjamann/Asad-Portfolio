@@ -18,10 +18,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>https://asadujjaman.dev/wp-content/uploads/2023/09/asad-logo-150x150.webp</url>
+	<url>https://asadujjaman.dev/wp-content/uploads/2023/09/asad-logo2-150x150.webp</url>
 	<title>Md. Asadujjaman Sabuj</title>
 	<link>https://asadujjaman.dev</link>
 	<width>32</width>
@@ -32,7 +32,7 @@
 		<link>https://asadujjaman.dev/hello-world/</link>
 					<comments>https://asadujjaman.dev/hello-world/#comments</comments>
 		
-		<dc:creator><![CDATA[asad54]]></dc:creator>
+		<dc:creator><![CDATA[Asad]]></dc:creator>
 		<pubDate>Sun, 10 Sep 2023 13:45:54 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://asadujjaman.dev/?p=1</guid>
